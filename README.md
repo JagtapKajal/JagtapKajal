@@ -48,6 +48,7 @@
 
 [![Kajal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JagtapKajal&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 <!--START_SECTION:waka-->
 <!-- If you use WakaTime, connect it to auto-fill your coding time here -->
 <!--END_SECTION:waka-->
